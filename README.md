@@ -7,6 +7,8 @@ MATERIALS
 -Arduino Uno
 -XBee Pro S2B 802.15.4 (4) 
 -Bread board (4)
+-Solar Panels
+-Campacitor/Transformer
 -TMP 36 Temperature Sensor(3)
 -Jumper Wires
 
